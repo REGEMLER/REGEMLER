@@ -11,18 +11,8 @@
 - __Telegram:__ [Yar Night](https://t.me/yarNight)
 
 ### Languages and Tools:
-<img alt="HTML5 icon" width="30px" src="./assets/html.svg">
-<img alt="CSS3 icon" width="30px" src="./assets/css.svg">
-<img alt="SASS icon" width="30px" src="./assets/sass.png">   
-<img alt="JS icon" width="30px" src="./assets/js.svg">
-<img alt="Figma icon" width="30px" src="./assets/figma.svg"> 
-<img alt="php icon" width="30px" src="./assets/php-svgrepo-com.svg">   
-<img alt="angular icon" width="30px" src="./assets/angular-svgrepo-com.svg">  
-<img alt="linux icon" width="30px" src="./assets/linux-svgrepo-com.svg"> 
-<img alt="mongo db icon" width="30px" src="./assets/mongodb-ar21.svg">
-<img alt="node js icon" width="30px" src="./assets/nodejs.svg">
-<img alt="react js icon" width="30px" src="./assets/react-svgrepo-com.svg">
-<img alt="ts icon" width="30px" src="./assets/typescript.svg">
+<img alt="HTML5 icon" width="30px" src="./assets/html.svg">   <img alt="CSS3 icon" width="30px" src="./assets/css.svg">   <img alt="SASS icon" width="30px" src="./assets/sass.png">   <img alt="JS icon" width="30px" src="./assets/js.svg">   <img alt="Figma icon" width="30px" src="./assets/figma.svg">    <img alt="php icon" width="30px" src="./assets/php-svgrepo-com.svg">   <img alt="angular icon" width="30px" src="./assets/angular-svgrepo-com.svg">   <img alt="linux icon" width="30px" src="./assets/linux-svgrepo-com.svg">   <img alt="mongo db icon" width="30px" src="./assets/mongodb-ar21.svg">   <img alt="node js icon" width="30px" src="./assets/nodejs.svg">
+<img alt="react js icon" width="30px" src="./assets/react-svgrepo-com.svg">   <img alt="ts icon" width="30px" src="./assets/typescript.svg">
 
 ### My Projects
  Project title            |   Deploy link
