@@ -22,7 +22,7 @@ Fun-Chat                  |   [Fun-Chat](https://regemler.github.io/Fun-Chat/)
 Async-Race                |   [Async-Race](https://regemler.github.io/Async-Race/)
 News-API                  |   [News-API](https://regemler.github.io/News-API/)
 Nonogram                  |   [Nonogram](https://regemler.github.io/Nonogram/nonograms/)
-Hangman                   |   [Hangman](https://regemler.github.io/Hangman/hangman//)
+Hangman                   |   [Hangman](https://regemler.github.io/Hangman/hangman/)
 Coffee-house              |   [Coffee-house ](https://regemler.github.io/coffee/coffee-house/)
 Library                   |   [Library](https://regemler.github.io/library/library/)
 Game memo                 |   [Game memo](https://regemler.github.io/Memo/)
@@ -33,18 +33,3 @@ Travel                    |   [Travel](https://regemler.github.io/Travel/)
 Minesweeper               |   [Minesweeper](https://regemler.github.io/Minesweeper/minesweeper/)
 Virtual-Keyboard          |   [Virtual-Keyboard](https://regemler.github.io/Virtual-Keyboard/)
 Momentum                  |   [Momentum](https://regemler-momentum.netlify.app/)
-
-<!--
-**REGEMLER/REGEMLER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
