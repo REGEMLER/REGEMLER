@@ -20,7 +20,6 @@
 English                   |   [English](https://regemler.github.io/Puzzle-English/)
 Fun-Chat                  |   [Fun-Chat](https://regemler.github.io/Fun-Chat/)
 Async-Race                |   [Async-Race](https://regemler.github.io/Async-Race/)
-News-API                  |   [News-API](https://regemler.github.io/News-API/)
 Nonogram                  |   [Nonogram](https://regemler.github.io/Nonogram/nonograms/)
 Hangman                   |   [Hangman](https://regemler.github.io/Hangman/hangman/)
 Coffee-house              |   [Coffee-house ](https://regemler.github.io/coffee/coffee-house/)
