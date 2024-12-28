@@ -11,7 +11,6 @@
 
 ### Connect with me:
 - __E-mail:__ [anoraglar@gmail.com](anoraglar@gmail.com)
-- __LinkedIn:__ [Yaroslav](https://www.linkedin.com/in/yaroslaw-rychik-56932023b/)
 - __Telegram:__ [Yar Night](https://t.me/yarNight)
 
 ### Languages and Tools:
